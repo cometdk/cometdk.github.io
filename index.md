@@ -15,6 +15,7 @@ Below are links to the Statistical Analysis Plans (SAPs) for our ongoing epidemi
 
 - [SAP – Hemoglobin trajectories during acute infections](SAPs/sap_hem_trajectories_v_1.0.pdf)
 - [SAP – Antibiotic exposure prior to admission for acute infections](SAPs/synopsis_prior_antibiotics_v6.pdf)
+- [SAP - Validation of SOFA-2 score](SAPs/sofa2_synopsis_v1.pdf)
 
 ---
 
